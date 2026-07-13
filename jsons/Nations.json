@@ -5,8 +5,9 @@
     "adjective": ["майянских синих клонов"],
     "startBias": ["Jungle"],
     "uniques": [
-    "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
-      "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.", "The Maya"
+      "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+      "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
+      "The Maya"
     ],
     "cities": ["Тикаль-С", "Копан-С", "Паленке-С", "Чичен-Ица-С", "Ушмаль-С"],
     "outerColor": [0, 0, 255],
@@ -18,8 +19,9 @@
     "adjective": ["майянских красных клонов"],
     "startBias": ["Jungle"],
     "uniques": [
-    "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
-      "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.", "The Maya"
+      "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+      "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
+      "The Maya"
     ],
     "cities": ["Тикаль-К", "Копан-К", "Паленке-К", "Чичен-Ица-К", "Ушмаль-К"],
     "outerColor": [255, 0, 0],
@@ -31,12 +33,110 @@
     "adjective": ["майянских зеленых клонов"],
     "startBias": ["Jungle"],
     "uniques": [
-    "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
-      "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.", "The Maya"
+      "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+      "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
+      "The Maya"
     ],
     "cities": ["Тикаль-З", "Копан-З", "Паленке-З", "Чичен-Ица-З", "Ушмаль-З"],
-
-		"outerColor": [6, 159, 6],
-		"innerColor": [255, 255, 102],
+    "outerColor": [6, 159, 6],
+    "innerColor": [255, 255, 102]
+  },
+  {
+    "name": "Серые Майя",
+    "leaderName": "Pacal",
+    "adjective": ["майянских серых клонов"],
+    "startBias": ["Jungle"],
+    "uniques": [
+      "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+      "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
+      "The Maya"
+    ],
+    "cities": ["Тикаль-Серые", "Копан-Серые", "Паленке-Серые", "Чичен-Ица-Серые", "Ушмаль-Серые"],
+    "outerColor": [128, 128, 128],
+    "innerColor": [255, 255, 255]
+  },
+  {
+    "name": "Черные Майя",
+    "leaderName": "Pacal",
+    "adjective": ["майянских черных клонов"],
+    "startBias": ["Jungle"],
+    "uniques": [
+      "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+      "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
+      "The Maya"
+    ],
+    "cities": ["Тикаль-Черные", "Копан-Черные", "Паленке-Черные", "Чичен-Ица-Черные", "Ушмаль-Черные"],
+    "outerColor": [0, 0, 0],
+    "innerColor": [255, 0, 0]
+  },
+  {
+    "name": "Фиолетовые Майя",
+    "leaderName": "Pacal",
+    "adjective": ["майянских фиолетовых клонов"],
+    "startBias": ["Jungle"],
+    "uniques": [
+      "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+      "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
+      "The Maya"
+    ],
+    "cities": ["Тикаль-Ф", "Копан-Ф", "Паленке-Ф", "Чичен-Ица-Ф", "Ушмаль-Ф"],
+    "outerColor": [128, 0, 128],
+    "innerColor": [255, 255, 0]
+  },
+  {
+    "name": "Оранжевые Майя",
+    "leaderName": "Pacal",
+    "adjective": ["майянских оранжевых клонов"],
+    "startBias": ["Jungle"],
+    "uniques": [
+      "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+      "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
+      "The Maya"
+    ],
+    "cities": ["Тикаль-О", "Копан-О", "Паленке-О", "Чичен-Ица-О", "Ушмаль-О"],
+    "outerColor": [255, 165, 0],
+    "innerColor": [0, 0, 255]
+  },
+  {
+    "name": "Бирюзовые Майя",
+    "leaderName": "Pacal",
+    "adjective": ["майянских бирюзовых клонов"],
+    "startBias": ["Jungle"],
+    "uniques": [
+      "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+      "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
+      "The Maya"
+    ],
+    "cities": ["Тикаль-Б", "Копан-Б", "Паленке-Б", "Чичен-Ица-Б", "Ушмаль-Б"],
+    "outerColor": [0, 128, 128],
+    "innerColor": [255, 192, 203]
+  },
+  {
+    "name": "Коричневые Майя",
+    "leaderName": "Pacal",
+    "adjective": ["майянских коричневых клонов"],
+    "startBias": ["Jungle"],
+    "uniques": [
+      "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+      "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
+      "The Maya"
+    ],
+    "cities": ["Тикаль-КР", "Копан-КР", "Паленке-КР", "Чичен-Ица-КР", "Ушмаль-КР"],
+    "outerColor": [139, 69, 19],
+    "innerColor": [173, 216, 230]
+  },
+  {
+    "name": "Золотые Майя",
+    "leaderName": "Pacal",
+    "adjective": ["майянских золотых клонов"],
+    "startBias": ["Jungle"],
+    "uniques": [
+      "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+      "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
+      "The Maya"
+    ],
+    "cities": ["Тикаль-ЗЛ", "Копан-ЗЛ", "Паленке-ЗЛ", "Чичен-Ица-ЗЛ", "Ушмаль-ЗЛ"],
+    "outerColor": [255, 215, 0],
+    "innerColor": [0, 100, 0]
   }
 ]
